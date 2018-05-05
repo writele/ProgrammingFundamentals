@@ -1,0 +1,7 @@
+C:\Web Development\ProgrammingFundamentals\ProgrammingFundamentals\bin\Debug\ProgrammingFundamentals.exe.config
+C:\Web Development\ProgrammingFundamentals\ProgrammingFundamentals\bin\Debug\ProgrammingFundamentals.exe
+C:\Web Development\ProgrammingFundamentals\ProgrammingFundamentals\bin\Debug\ProgrammingFundamentals.pdb
+C:\Web Development\ProgrammingFundamentals\ProgrammingFundamentals\obj\Debug\ProgrammingFundamentals.csprojResolveAssemblyReference.cache
+C:\Web Development\ProgrammingFundamentals\ProgrammingFundamentals\obj\Debug\ProgrammingFundamentals.csproj.CoreCompileInputs.cache
+C:\Web Development\ProgrammingFundamentals\ProgrammingFundamentals\obj\Debug\ProgrammingFundamentals.exe
+C:\Web Development\ProgrammingFundamentals\ProgrammingFundamentals\obj\Debug\ProgrammingFundamentals.pdb
